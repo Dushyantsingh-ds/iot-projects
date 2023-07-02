@@ -1,7 +1,11 @@
-## Wiring
-![ Circuit ](https://github.com/Dushyantsingh-ds/iot-projects/blob/main/Projects/Temperature%20%26%20Humidity%20Monitoring%20%26%20storing/Img/wiring.jpg)
+
+![ Circuit ](https://github.com/Dushyantsingh-ds/iot-projects/blob/main/Projects/Temperature%20%26%20Humidity%20Monitoring%20%26%20storing/Img/Posters1.jpg)
+
 
 ## Code 
+<details>
+  <summary>Click to expand!</summary>
+  
 ```
 /* This code is desgined by Dushyant singh
  *  You can follow me on Github for more such IoT and AI content: Github/@dushyantsingh-ds
@@ -176,8 +180,13 @@ void loop()
 }
 
 ```
+</details>
 
-secret.h
+
+## Secrets.h
+<details>
+  <summary>Click to expand!</summary>
+  
 
 ```
 /* This code is desgined by Dushyant singh
@@ -217,6 +226,11 @@ static const char privkey[] PROGMEM = R"KEY(
 )KEY";
 
 ```
+</details>
+
+## Wiring
+![ Circuit ](https://github.com/Dushyantsingh-ds/iot-projects/blob/main/Projects/Temperature%20%26%20Humidity%20Monitoring%20%26%20storing/Img/wiring.jpg)
+
 
 ## IDE
 ![ Circuit ](https://github.com/Dushyantsingh-ds/iot-projects/blob/main/Projects/Temperature%20%26%20Humidity%20Monitoring%20%26%20storing/Img/ide.png)
