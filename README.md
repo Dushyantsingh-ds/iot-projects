@@ -2,7 +2,9 @@
 
 ### [01- Hello Cloud](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Hello%20Cloud)
 ### [02- AWS Lamp](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Aws%20Lamp/Resources)
-### [04- Pressure Monitoring with AWS](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Pressure%20Monitoring%20with%20AWS)
+### [03- Pressure Monitoring with AWS](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Pressure%20Monitoring%20with%20AWS)
+### [04- Temperature & Humidity Monitoring & storing with AWS](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Temperature%20%26%20Humidity%20Monitoring%20%26%20storing)
+
 <hr/>
 
 
