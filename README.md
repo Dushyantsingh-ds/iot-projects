@@ -4,6 +4,7 @@
 ### [02- AWS Lamp](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Aws%20Lamp/Resources)
 ### [03- Pressure Monitoring with AWS](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Pressure%20Monitoring%20with%20AWS)
 ### [04- Temperature & Humidity Monitoring & storing with AWS](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/Temperature%20%26%20Humidity%20Monitoring%20%26%20storing)
+### [05- ESP32/ESP8266 with HTPP protocol](https://github.com/Dushyantsingh-ds/iot-projects/tree/main/Projects/)
 
 <hr/>
 
